@@ -12,17 +12,17 @@
         {
           "name": "grayduino",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "grayduino",
           "help": {
             "online": ""
           },
-          "url": "https://github.com/colinta/grayduino/archive/fb9bd5d68261e2135763ce489aa57ec4e3df1c84.zip",
-          "archiveFileName": "fb9bd5d68261e2135763ce489aa57ec4e3df1c84.zip",
-          "checksum": "SHA-256:beb40ad581be4327070335f4e6b0cec14a28530a04ef8a25d837bbc0a78a6de3",
+          "url": "https://github.com/colinta/grayduino/archive/25cd937be5bbdd7bca2b88f621558a67e03d7a6e.zip",
+          "archiveFileName": "25cd937be5bbdd7bca2b88f621558a67e03d7a6e.zip",
+          "checksum": "SHA-256:6edd6afea26c3b3eaa14b040193220da9b99495fac83b21281cbb956dac54ddc",
           "size": "16933",
           "boards": [
-            {"name": "Grayduino 32u4"}
+            {"name": "Grayduino Atmega 32u4"}
           ]
         }
       ],
