@@ -4,7 +4,7 @@ menu.cpu=Processor
 
 ##############################################################
 
-grayduino.name=Grayduino
+grayduino.name=Grayduino Atmega32u4
 grayduino.vid.0=0x2341
 grayduino.pid.0=0x0036
 grayduino.vid.1=0x2341
