@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "grayduino",
+      "maintainer": "Colin T.A. Gray",
+      "websiteURL": "https://github.com/colinta/grayduino",
+      "email": "colinta@gmail.com",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "grayduino",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "grayduino",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/colinta/grayduino/archive/fb9bd5d68261e2135763ce489aa57ec4e3df1c84.zip",
+          "archiveFileName": "fb9bd5d68261e2135763ce489aa57ec4e3df1c84.zip",
+          "checksum": "SHA-256:23527e1dfa64ace97d8cc89f0e13d3d142a1528259f3a3490b9d2789b666b321",
+          "size": "49386",
+          "boards": [
+            {"name": "Grayduino 32u4"}
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
