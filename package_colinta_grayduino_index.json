@@ -12,7 +12,7 @@
         {
           "name": "grayduino",
           "architecture": "avr",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "category": "grayduino",
           "help": {
             "online": ""
@@ -22,7 +22,7 @@
           "checksum": "SHA-256:6edd6afea26c3b3eaa14b040193220da9b99495fac83b21281cbb956dac54ddc",
           "size": "16933",
           "boards": [
-            {"name": "Grayduino Atmega 32u4"}
+            {"name": "Grayduino Atmega32u4"}
           ]
         }
       ],
